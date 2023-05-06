@@ -10,3 +10,4 @@ from . import models, views  # noqa
 from . import forms
 
 db.create_all()
+
