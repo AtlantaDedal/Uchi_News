@@ -1,1 +1,5 @@
 /.env
+*.pyc
+*.xml
+.idea/env.iml
+app/__pycache__/__init__.cpython-39.pyc
